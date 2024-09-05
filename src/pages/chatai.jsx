@@ -16,7 +16,7 @@ export default function main() {
   }
   return (
     <div className="app">
-      <h1 class="text-4xl font-serif font-bold">Chat AI</h1>
+      <h1 class="text-4xl font-serif font-bold">Chat AI *</h1>
       <textarea
         className="border-2 border-black, w-1/2 h-20 p-2"
         value={question}
